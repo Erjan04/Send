@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Send</string>
+    <string name="send">ОТПРАВЛЯЛКА</string>
+    <string name="s">ОТПРАВИТЬ</string>
+    <string name="NEXT">ДРУГОЕ</string>
+</resources>
